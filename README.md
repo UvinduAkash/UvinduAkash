@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&customColorList=0,2,2,5,30&height=200&section=header&text=Pasindu%20D.%20Wanninayake&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&customColorList=0,2,2,5,30&height=200&section=header&text=Uvindu%20Akash&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="header" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;Full-Stack+Developer;Graphic+Designer;Computer+Engineering+Student)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;Full-Stack+Developer;Content+Creator;Computer+Engineering+Student)](https://git.io/typing-svg)
 
-  <img src="https://komarev.com/ghpvc/?username=Wanni46&label=Profile%20views&color=0047AB&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Wanni46?style=for-the-badge&logo=github&color=0047AB" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=UvinduAkash&label=Profile%20views&color=0047AB&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/UvinduAkash?style=for-the-badge&logo=github&color=0047AB" alt="followers" />
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
@@ -18,9 +18,9 @@
 - 💻 Passionate Full-Stack Developer from Sri Lanka
 - 🌱 Currently focusing on **Java | Python | Laravel | React | JavaScript**
 - 🏢 Working at [AxSynthe Group](https://www.axsynthegroup.me) - Building Digital Excellence
-- 📫 Reach me at: [pasinduwanninayake218@gmail.com](mailto:pasinduwanninayake218@gmail.com)
-- ⚡ Fun fact: People call me **Dhana**!
-- 📅 Last updated: **2025-05-06 03:07:42 UTC**
+- 📫 Reach me at: [uvinduakash3@gmail.com](mailto:uvinduakash3@gmail.com)
+- ⚡ Fun fact: People call me **Sudda**!
+- 📅 Last updated: **2025-05-08 03:07:42 UTC**
 
 <div align="center">
   <a href="https://www.axsynthegroup.me" target="_blank">
@@ -74,16 +74,16 @@
 
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Wanni46&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0047AB&icon_color=0047AB" alt="Wanni46's GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanni46&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=0047AB" alt="Wanni46's Top Languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=UvinduAkash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0047AB&icon_color=0047AB" alt="UvinduAkash's GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduAkash&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=0047AB" alt="UvinduAkash's Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wanni46&theme=tokyonight&hide_border=true&ring=0047AB&fire=0047AB&currStreakLabel=0047AB" alt="Wanni46's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UvinduAkash&theme=tokyonight&hide_border=true&ring=0047AB&fire=0047AB&currStreakLabel=0047AB" alt="UvinduAkash's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wanni46&theme=nord&column=7&no-frame=true&no-bg=true" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=UvinduAkash&theme=nord&column=7&no-frame=true&no-bg=true" alt="Trophy" />
 </div>
 
 ## 🔗 Connect with me
@@ -96,13 +96,13 @@
   <a href="https://stackoverflow.com/users/30434740" target="_blank">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://fb.com/dhananjayawanninayake.wanninayake" target="_blank">
+  <a href="https://fb.com/uvinduakash.akash" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.youtube.com/c/@mintrack" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="mailto:pasinduwanninayake218@gmail.com" target="_blank">
+  <a href="mailto:uvinduakash3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.axsynthegroup.me" target="_blank">
@@ -117,7 +117,7 @@
 
 <div align="center">
   <a href="https://www.axsynthegroup.me" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanni46&repo=Wanni46&theme=tokyonight&hide_border=true&title_color=0047AB&icon_color=0047AB" alt="Featured Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduAkash&repo=UvinduAkash&theme=tokyonight&hide_border=true&title_color=0047AB&icon_color=0047AB" alt="Featured Project" />
   </a>
   <p>Check out our innovative digital solutions at <b>AxSynthe Group</b> where we transform ideas into powerful digital experiences!</p>
 </div>
@@ -128,7 +128,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <a href="https://buymeacoffee.com/dhananjaya_46">
+  <a href="https://buymeacoffee.com/uvinduakash">
     <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div>
@@ -138,9 +138,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wanni46/Wanni46/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wanni46/Wanni46/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Wanni46/Wanni46/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UvinduAkash/UvinduAkash/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UvinduAkash/UvinduAkash/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/UvinduAkash/UvinduAkash/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
